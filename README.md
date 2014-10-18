@@ -5,4 +5,4 @@ By Jake Eckhart
 
 Link to Project Instructions
 =====================
-<a href="http/www.theodinproject.com"><a/>
+<a href="http/www.theodinproject.com">The Odin Project<a/>
