@@ -1,0 +1,43 @@
+#container{
+	height:  574px;
+	width: 513px;
+	margin: auto;
+	border: 5px;
+	border-color: aqua;
+	display: block;
+	background-color: #F2F2F2;
+	padding: 5px 5px 5px 5px;
+}
+
+#container div{
+	width: 30px;
+	height: 30px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
+	margin-right: 1px;
+	display: inline-block;
+	background-color: #FAFAFA;
+}
+
+#border{
+	height: 584px;
+	width: 524px;
+	margin: 150px auto;
+	display: block;
+	padding: 2px 2px 2px 2px;
+	border: 1px;
+	border-color: black;
+}
+
+.trail{
+	background-color: aqua;
+}
+
+button{
+	margin-left: 655px;
+	margin-top: -80px;
+	height: 50px;
+	width: 100px;
+	position: absolute;
+}
